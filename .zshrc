@@ -10,7 +10,7 @@ export ZSH="/home/deimos/.oh-my-zsh"
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
 ZSH_THEME="gozilla"
-
+#Nerdfonts don't work very well with WSL
 #POWERLEVEL9K_MODE='nerdfont-complete'
 #POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon vcs)
 #POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status command_execution_time time)

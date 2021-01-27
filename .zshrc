@@ -91,6 +91,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#
+#
 alias cdh="cd /mnt/c/Users/u0871009"
 mkcdir ()
 {
